@@ -3,6 +3,8 @@ _morse_ is a small python library providing utility functions converting morse t
 
 to use:
 ```
+import morse
+
 morse.encode(text)
 morse.decode(morse_text)
 ```
